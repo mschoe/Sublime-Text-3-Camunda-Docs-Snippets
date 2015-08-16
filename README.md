@@ -7,17 +7,17 @@ For manually installation copy the files to your `packages` folder.
 
 ## Snippets
 
-`relref` [*Reference Name*]({{< relref "*path/to/reference.md*" >}})
+`relref` `[REFERENCE NAME]({{< relref "path/to/reference.md" >}})`
 
-`ref` [*Reference Name*](*absolute/path/to/reference*)
+`ref` `[REFERENCE NAME](absolute/path/to/reference)`
 
-`javaref` {{< javadocref page="*path/to/java/doc/page*.html" text="*Reference Name*" >}}
+`javaref` `{{< javadocref page="path/to/java/doc/page.html" text="REFERENCE NAME" >}}`
 
-`img` {{< img src="../img/*filename.png*" title="*Image title*" >}}
+`img` `{{< img src="../img/filename.png" title="IMAGE TITLE" >}}`
 
-`note` {{< note title="*Note Title*" class="*info/warning/etc.*" >}} ...*Text*... {{< /note >}}
+`note` `{{< note title="NOTE TITLE" class="info/warning/etc." >}} ...TEXT... {{< /note >}}`
 
-`eenote` {{< enterprise >}} ...*Text*... {{< /enterprise >}}
+`eenote` `{{< enterprise >}} ...TEXT... {{< /enterprise >}}`
 
 ## License
 

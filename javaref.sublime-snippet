@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+{{< javadocref page="${1:}.html" text="${2:}" >}}
+]]></content>
+  <tabTrigger>javaref</tabTrigger>
+  <scope>text.html.markdown</scope>
+</snippet>

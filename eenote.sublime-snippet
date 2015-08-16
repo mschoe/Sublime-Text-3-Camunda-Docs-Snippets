@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+{{< enterprise >}}
+${1:}
+{{< /enterprise >}}
+]]></content>
+  <tabTrigger>eenot</tabTrigger>
+  <scope>text.html.markdown</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+[${1:}]({{< relref "${2:}" >}})
+]]></content>
+  <tabTrigger>rel</tabTrigger>
+  <scope>text.html.markdown</scope>
+</snippet>

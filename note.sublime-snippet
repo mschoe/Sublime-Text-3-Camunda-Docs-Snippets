@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+{{< note title="${1:}" class="${2:info}" >}}
+${3:}
+{{< /note >}}
+]]></content>
+  <tabTrigger>not</tabTrigger>
+  <scope>text.html.markdown</scope>
+</snippet>
