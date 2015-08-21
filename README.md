@@ -19,6 +19,8 @@ For manually installation copy the files to your `packages` folder.
 
 `eenote` `{{< enterprise >}} ...TEXT... {{< /enterprise >}}`
 
+`gly` `{{< glyphicon name="" text="" >}}`
+
 ## License
 
 MIT

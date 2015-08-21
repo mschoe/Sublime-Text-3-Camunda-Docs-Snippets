@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+{{< glyphicon name="${1:}" ${2:text="${3:}"} >}}
+]]></content>
+  <tabTrigger>gly</tabTrigger>
+  <scope>text.html.markdown</scope>
+</snippet>
